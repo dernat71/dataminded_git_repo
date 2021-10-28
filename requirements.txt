@@ -1,4 +1,5 @@
 click
+isabelle
 pip-check-reqs
 pip-licenses
 flake8
