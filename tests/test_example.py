@@ -3,7 +3,7 @@
 
 """
 .. currentmodule:: test_example
-.. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
+.. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be> and Sara
 
 This is a sample test module.
 """
