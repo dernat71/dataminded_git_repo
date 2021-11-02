@@ -72,7 +72,7 @@ def cli(info: Info, verbose: int):
 @pass_info
 def hello(_: Info):
     """Say 'hello' to the nice people."""
-    click.echo("mysupercliproject says 'Goodbye'")
+    click.echo("mysupercliproject says 'Hello & Goodbye !'")
 
 
 @cli.command()
@@ -81,3 +81,4 @@ def version():
     click.echo(click.style(f"{__version__}", bold=True))
 
 #comment update of cli.py
+# jeremy comment
