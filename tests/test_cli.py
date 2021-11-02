@@ -28,7 +28,7 @@ def test_version_displays_library_version():
     result: Result = runner.invoke(cli.cli, ["version"])
     assert (
         __version__ in result.output.strip()
-    ), "Version number should match library version."
+    ), "Version number should match library version. "
 
 
 def test_verbose_output():
@@ -40,7 +40,7 @@ def test_verbose_output():
     result: Result = runner.invoke(cli.cli, ["-v", "version"])
     assert (
         "Verbose" in result.output.strip()
-    ), "Verbose logging should be indicated in output."
+    ), "Verbose logging should be indicated in output. "
 
 
 def test_hello_displays_expected_message():
@@ -49,7 +49,7 @@ def test_hello_displays_expected_message():
     Assert:  The output matches the library version.
     """
     runner: CliRunner = CliRunner()
-    result: Result = runner.invoke(cli.cli, ["hello"])
+    result: Result = runner.invoke(cli.cli, ["hello everyone"])
     # fmt: off
     assert 'mysupercliproject' in result.output.strip(), \
         "'Hello' messages should contain the CLI name."
