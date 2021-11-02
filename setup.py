@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-This file is used to create the package we'll publish to PyPI.
+This file is used to create the package we'll publish to PyPI by antoine.
 
 .. currentmodule:: setup.py
 .. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
