@@ -3,7 +3,7 @@
 
 """
 .. currentmodule:: test_cli
-.. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
+.. moduleauthor:: Antoine Pierroux <nathan.derave@dataminded.be>
 
 This is the test module for the project's command-line interface (CLI)
 module.
