@@ -3,9 +3,9 @@
 
 """
 .. currentmodule:: test_example
-.. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
+.. moduleauthor:: ANTOINE PIERROUX <nathan.derave@dataminded.be>
 
-This is a sample test module.
+This is a NOT A sample test module.
 """
 
 import pytest
