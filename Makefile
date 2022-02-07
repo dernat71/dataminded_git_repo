@@ -5,6 +5,7 @@ CLI_NAME = mysupercliproject
 PY_VERSION = 3.7
 LINTER = flake8
 
+print("check this")
 
 
 build:
