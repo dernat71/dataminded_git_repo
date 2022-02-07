@@ -3,6 +3,7 @@
 
 """
 This module contains project version information.
+The version is subject to changes throughout the project.
 
 .. currentmodule:: mysupercliproject.version
 .. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>

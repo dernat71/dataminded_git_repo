@@ -10,4 +10,4 @@ setuptools
 Sphinx
 sphinx-rtd-theme
 tox
-twine
+twine==3.7
