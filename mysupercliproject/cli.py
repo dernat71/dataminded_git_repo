@@ -73,6 +73,7 @@ def cli(info: Info, verbose: int):
 def hello(_: Info):
     """Say 'hello' to the nice people."""
     click.echo("mysupercliproject says 'hello'")
+    # This is a comment added by Cedric
 
 
 @cli.command()

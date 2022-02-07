@@ -8,6 +8,7 @@ This file is used to create the package we'll publish to PyPI.
 .. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
 """
 
+# And another random comment
 import importlib.util
 import os
 from pathlib import Path
