@@ -10,3 +10,6 @@ This module contains project version information.
 
 __version__ = "0.0.1"  #: the working version
 __release__ = "0.0.1"  #: the release version
+
+# Some dummy release
+# __release__ = "<DUMMY>"  #: the release version
