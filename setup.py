@@ -14,7 +14,7 @@ from pathlib import Path
 from setuptools import setup, find_packages
 from codecs import open  # Use a consistent encoding.
 from os import path
-
+print('Hello')
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the relevant file
