@@ -39,6 +39,10 @@ Below are some handy resource links.
 
 See also the list of [contributors](https://github.com/dernat71/mysupercliproject/contributors) who participated in this project.
 
+## Version
+
+Version: 0.1.2
+
 ## LicenseMIT License
 
 Copyright (c) dernat71
